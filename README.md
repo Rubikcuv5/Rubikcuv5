@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rubickcuv</h1>
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+ <a href="https://t.me/rubickcuv"><img align="left" alt="rubickcuv Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+<a href="https://www.reddit.com/user/yourPowned/">  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" /></a>  
 <a href="https://linkedin.com/in/emmanuel-cruz-lópez-9bb0961a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emmanuel-cruz-lópez-9bb0961a2" height="30" width="40" /></a>
 <a href="https://medium.com/@rubikcuv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rubikcuv" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rubickcuv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@rubickcuv" height="30" width="40" /></a>
+
 </p>
 <h3 align="center">Hola , me llamo Emmanuel alias(Rubickcuv), programador junior apasionado por la CiberSeguridad y el diseño web</h3>
 
