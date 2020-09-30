@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi I'M RUBICKCUV <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://medium.com/@RubikCuv">
+  <img align="left" alt="Rubick Medium" width="24px"src="https://icon-icons.com/downloadimage.php?id=130878&root=2108/SVG/&file=medium_icon_130878.svg"  />
+</a>
 
-<!--
-**EmmanuelCruzL/EmmanuelCruzL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on S
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
