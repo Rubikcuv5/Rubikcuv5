@@ -10,7 +10,8 @@
 <h3 align="center">Hola , me llamo Emmanuel alias(Rubickcuv), programador junior apasionado por la CiberSeguridad y el diseño web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelcruzl" alt="emmanuelcruzl" /> </p>
-<p align="right">HACK THE BOX</p>
+<p align="right"><span style="font-family: 'Lucida Console';">HACK THE BOX</span></p>
+
 <p align="right"><img src="http://www.hackthebox.eu/badge/image/372110" alt="Hack The Box"></p>
 
    
