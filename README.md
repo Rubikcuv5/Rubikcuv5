@@ -19,22 +19,21 @@
   </a>
 </p>
 
-<h3 align="center">I'm Rubickcuv. I'm a researcher and programmer focusing on Cybersecurity and web design. I specialize in researching and publishing CVE POCs, and actively participate in CTFs.</h3>
+<h3 align="center">I'm Rubickcuv, I'm a researcher and programmer focusing on Cybersecurity. My expertise lies in developing CVE POCs, hacking tools, and actively participating in CTFs.</h3>
 
 
 
-<br>
 <div style="text-align: center;">
-  <h2>My Online Presence:</h2>
+  <h2>Online Presence</h2>
   <h3 style="font-size: larger; text-align: left;">
     • 👨‍💻 All my projects are available on <a href="https://github.com/EmmanuelCruzL?tab=repositories" style="text-decoration: none; color: black;">GitHub</a><br>
     • 📝 I regularly write articles on <a href="https://medium.com/@RubikCuv" style="text-decoration: none; color: black;">Medium</a><br>
-    • 📫 You can contact me at <strong>rubickcuv5.contact@proton.me</strong><br>
+    • 📫 You can contact me at <strong><a href="mailto:rubickcuv5.contact@proton.me" style="text-decoration: none; color: blue;">rubickcuv5.contact@proton.me</a></strong><br>
   </h3>
 </div>
 
 
-<br>
+
 
 
 ## HackTheBox CTF Statistics
@@ -43,14 +42,16 @@
   <img src="http://www.hackthebox.eu/badge/image/372110" alt="RubikCuv5">
 </p>
 
-## 🔝 Repository with Most Contributions
+
+## Top Repository Contributions
 
 <div align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=Rubikcuv5&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Repository with Most Contributions" style="max-width: 80%;">
 </div>
 
 
-# 💻 Technologies I Use:
+
+# 💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -62,4 +63,4 @@
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
