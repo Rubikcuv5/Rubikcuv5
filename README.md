@@ -1,43 +1,65 @@
-<h1 align="center">Hi 👋, I'm Rubickcuv</h1>
-<p align="left">
- <a href="https://t.me/rubickcuv"><img align="left" alt="rubickcuv Telegram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
-<a href="https://www.reddit.com/user/yourPowned/">  <img align="left" alt="Abhishek's Reddit" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" /></a>  
-<a href="https://linkedin.com/in/emmanuel-cruz-lópez-9bb0961a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emmanuel-cruz-lópez-9bb0961a2" height="30" width="40" /></a>
-<a href="https://medium.com/@rubikcuv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rubikcuv" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rubickcuv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@rubickcuv" height="30" width="40" /></a>
+<h1 align="center">Hello, I'm Rubickcuv 👋</h1>
 
+
+<p align="center">
+  <a href="https://linkedin.com/in/emmanuel-cruz-lópez-9bb0961a2">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://reddit.com/user/yourPowned">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit">
+  </a>
+  <a href="https://x.com/rubickcuv5">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+  </a>
+  <a href="https://medium.com/@rubikcuv">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://visitcount.itsvg.in/api?id=Rubikcuv5&icon=4&color=0">
+    <img src="https://camo.githubusercontent.com/f1a32ad25c6fd1b251548561820efcbfbedd3f4a286c6d7261670de660145cc7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d656d6d616e75656c6372757a6c" alt="Visits">
+  </a>
 </p>
-<h3 align="center">Hola , me llamo Emmanuel alias(Rubickcuv), programador junior apasionado por la CiberSeguridad y el diseño web</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelcruzl" alt="emmanuelcruzl" /> </p>
-<p align="left"><span style="font-family: 'Lucida Console';">HACK THE BOX</span></p>
-
-<a align="right" href="https://app.hackthebox.com/users/372110"><img src="http://www.hackthebox.eu/badge/image/372110" alt="Hack The Box"></a>
-
-   
-- 🔭 I’m currently working on [Ip-finder(metasploit)](https://zanti-app.vercel.app/)
-
-- 🌱 I’m currently learning **PYTHON ,FLASK,IA**
-
-- 👯 I’m looking to collaborate on [IP-FINDER](https://ip-finder.io)
-
-- 👨‍💻 All of my projects are available at [https://github.com/EmmanuelCruzL?tab=repositories](https://github.com/EmmanuelCruzL?tab=repositories)
-
-- 📝 I regulary write articles on [https://medium.com/@RubikCuv](https://medium.com/@RubikCuv)
-
-- 💬 Ask me about **Python, Java, Angular,Flask**
-
-- 📫 How to reach me **rubickcuv.contacto@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h3 align="center">I'm Rubickcuv. I'm a researcher and programmer focusing on Cybersecurity and web design. I specialize in researching and publishing CVE POCs, and actively participate in CTFs.</h3>
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/angular-3628622-3029847.png" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/c-2336965-1982846.png" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" alt="css3" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/html5-42-1175210.png" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/java-3628857-3029997.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/logo-128-116267.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/php-3628975-3030200.png" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png" alt="python" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
+<div style="text-align: center;">
+  <h2>My Online Presence:</h2>
+  <h3 style="font-size: larger; text-align: left;">
+    • 👨‍💻 All my projects are available on <a href="https://github.com/EmmanuelCruzL?tab=repositories" style="text-decoration: none; color: black;">GitHub</a><br>
+    • 📝 I regularly write articles on <a href="https://medium.com/@RubikCuv" style="text-decoration: none; color: black;">Medium</a><br>
+    • 📫 You can contact me at <strong>rubickcuv5.contact@proton.me</strong><br>
+  </h3>
+</div>
 
-<p><img align="left" width="340px" heigth="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelcruzl&layout=compact" alt="emmanuelcruzl" /></p>
 
-<p>&nbsp;<img align="rigth" width="400px" heigth="400" src="https://github-readme-stats.vercel.app/api?username=emmanuelcruzl&show_icons=true" alt="emmanuelcruzl" /></p>
+<br>
+
+
+## HackTheBox CTF Statistics
+
+<p align="left">
+  <img src="http://www.hackthebox.eu/badge/image/372110" alt="RubikCuv5">
+</p>
+
+## 🔝 Repository with Most Contributions
+
+<div align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Rubikcuv5&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Repository with Most Contributions" style="max-width: 80%;">
+</div>
+
+
+# 💻 Technologies I Use:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
